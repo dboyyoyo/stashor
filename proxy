@@ -1,6 +1,4 @@
-proxy-groups:
-  - 
-    name: Proxy
-    type: select
-    proxies:
+proxy-groups-modifier:
+  - name: Proxy
+    append:
       - AutoNoCN
