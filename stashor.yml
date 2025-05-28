@@ -2,6 +2,7 @@ key: value
 proxy-groups:
   - 
     name: Proxy
+    type: select
     proxies:
       - AutoNoCN
   - 
