@@ -3,6 +3,7 @@ key: value
     name: Proxy
     proxies:
       - AutoNoCN
+proxy-groups:
   - 
     name: AutoNoCN
     type: url-test
