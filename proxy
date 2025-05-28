@@ -1,4 +1,5 @@
 proxy-groups-modifier:
   - name: Proxy
-    append:
+    proxies:
+    insert:
       - AutoNoCN
