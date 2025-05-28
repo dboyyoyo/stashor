@@ -1,7 +1,9 @@
-proxy-groups-modifier:
-  - name: Proxy
-    append:
-      - AutoNoCN
+proxy-groups:
+  - 
+    name: Proxy #!replace
+    type: select
+    proxies:
+      - Auto
 
 proxy-groups:
   - name: AutoNoCN
